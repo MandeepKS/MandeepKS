@@ -1,5 +1,8 @@
 ### Hi there 👋
+#### My name is Mandeep Kumar Salhan
 
+-  I'm enrolled in the Front-End Development program at Noroff Vocational School, Norway
+-  I am undertaking an apprenticeship at **7sense** as a full-stack developer and at **Just a Code** as front-end developer.
 <!--
 **MandeepKS/MandeepKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
